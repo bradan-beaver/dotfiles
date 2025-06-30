@@ -1,0 +1,17 @@
+# Ignore all...
+*
+
+# ...then unignore configs
+!.gitignore
+
+# zsh
+!.zshrc
+
+# configs
+!.config
+!.config/zsh
+!.config/zsh/**/*
+!.config/nvim
+!.config/nvim/**/*
+!.config/hypr
+!.config/hypr/**/*
